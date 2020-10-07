@@ -22,5 +22,6 @@ npm run lint
 
 ### Done
 
-'''
-'''
+```
+npm run dist
+```
