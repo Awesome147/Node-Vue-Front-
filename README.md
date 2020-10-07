@@ -1,4 +1,4 @@
-# soludeon-frontend
+# Front-End
 
 ## Project setup
 ```
